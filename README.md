@@ -9,7 +9,7 @@
 3. [常用命令集合](./Ubuntu/3.常用命令集合.md)
 
 ## Node.js：
-
+1.[ubuntu下安装Node.js4.1.1](./nodejs/1.安装Node.js.md)
 ## Javascript：
 
 ## Java：
