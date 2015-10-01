@@ -7,6 +7,5 @@
     `greeter-show-manual-login=true`
     `allow-guest=false`
 5. `reboot`重启之后即可用root登陆
-6. 
 
 
