@@ -1,7 +1,7 @@
 #各种学习的总结
 
 ##小知识
-1. [Markdown语法](./小知识/Markdown语法.md)
+1. [Markdown语法](./Others/Markdown语法.md)
 
 ##Ubuntu：
 1. [开启root登陆](./Ubuntu/开启root登陆.md)
