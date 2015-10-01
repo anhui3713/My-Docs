@@ -6,6 +6,7 @@
 ## Ubuntu：
 1. [开启root登陆](./Ubuntu/1.开启root登陆.md)
 2. [开启远程桌面链接（被链接）](./Ubuntu/2.开启远程桌面连接1.md)
+3. [常用命令集合](./Ubuntu/3.常用命令集合.md)
 
 ## Node.js：
 
