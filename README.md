@@ -19,3 +19,6 @@
 
 ## MongoDB：
 1. [Windows下安装配置Mongodb3.0.7](./MongoDB/1.Windows下安装配置.md)
+
+## 互联网知识
+1. [[转]DNS轮询负载均衡原理](./Internet/1.[转]DNS轮询负载均衡原理.md)
