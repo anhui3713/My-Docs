@@ -10,10 +10,10 @@
 
 ## 前端开发：
 ### CSS
-1.[使用CSS3实现垂直居中](./fore/css/1.CSS3实现垂直居中.md) 
+1.[使用CSS3实现垂直居中](./Fore/css/1.CSS3实现垂直居中.md) 
 ### JavaScript
 ### Node.js
-1.[ubuntu下安装Node.js4.1.1](./nodejs/1.安装Node.js.md)
+1.[ubuntu下安装Node.js4.1.1](./Nodejs/1.安装Node.js.md)
 ### React.js
 1. [React入门](./React/1.React入门.md)
 
