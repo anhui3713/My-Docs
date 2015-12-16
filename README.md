@@ -14,18 +14,20 @@
 #### 3.1 Maven  
 1. [Maven构建时忽略单元测试](./Java/Maven/1.Maven构建时忽略单元测试.md)
 
-## 4.前端开发：
-#### 4.1 CSS
-1.[使用CSS3实现垂直居中](./FrontEnd/css/1.CSS3实现垂直居中.md) 
-#### 4.2 JavaScript
-#### 4.3 Node.js
-1.[ubuntu下安装Node.js4.1.1](./Node.js/1.Ubuntu下安装Node.js.md)
+## 4.前端开发：  
+#### 4.1 CSS  
+1. [使用CSS3实现垂直居中](./FrontEnd/css/1.CSS3实现垂直居中.md) 
+
+#### 4.2 JavaScript  
+#### 4.3 Node.js  
+1. [ubuntu下安装Node.js4.1.1](./Node.js/1.Ubuntu下安装Node.js.md)
+
 #### 4.4 React.js
 1. [React入门](./React/1.React入门.md)
 
 ## 5.MongoDB：
 1. [Windows下安装配置Mongodb3.0.7](./MongoDB/1.Windows下安装配置.md)
 
-## 6.互联网知识
+## 6.互联网知识  
 1. [[转]DNS轮询负载均衡原理](./Internet/1.[转]DNS轮询负载均衡原理.md)
 
