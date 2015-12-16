@@ -22,3 +22,7 @@
 
 ## 互联网知识
 1. [[转]DNS轮询负载均衡原理](./Internet/1.[转]DNS轮询负载均衡原理.md)
+
+## Java  
+### Maven  
+1. [Maven构建时忽略单元测试](./Java/Maven/1.Maven构建时忽略单元测试.md)
