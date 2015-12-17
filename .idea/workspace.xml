@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="666ee1c9-b938-49b1-b1be-856343355a40" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/1.tomcat7依赖redis配置集群实现session共享.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ubuntu/3.常用命令集合.md" afterPath="$PROJECT_DIR$/Ubuntu/3.常用命令集合.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    <list default="true" id="666ee1c9-b938-49b1-b1be-856343355a40" name="Default" comment="添加tomcat7和redis的集群配置">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/James的文档.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/buil.gradle中sonatype地址代码.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/context.xml配置.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/gradle-build报错1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/nginx转发配置.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/构建完成.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="My-Docs.iws" />
@@ -183,28 +186,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="HeighWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="My-Docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="My-Docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeighWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tomcat7-redis-session" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -446,7 +427,13 @@
       <option name="project" value="LOCAL" />
       <updated>1450246978949</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="添加tomcat7和redis的集群配置">
+      <created>1450335604806</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1450335604806</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -491,7 +478,8 @@
     <MESSAGE value="添加node连接mongodb&#10;修改常用命令 新增ps和grep命令" />
     <MESSAGE value="修改错别字" />
     <MESSAGE value="修改编号" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改编号" />
+    <MESSAGE value="添加tomcat7和redis的集群配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加tomcat7和redis的集群配置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
