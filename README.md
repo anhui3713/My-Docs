@@ -12,7 +12,10 @@
 
 ## 3.Java  
 #### 3.1 Maven  
-1. [Maven构建时忽略单元测试](./Java/Maven/1.Maven构建时忽略单元测试.md)
+1. [Maven构建时忽略单元测试](./Java/Maven/1.Maven构建时忽略单元测试.md)  
+
+#### 3.2 高性能网站搭建  
+1. [tomcat7依赖redis配置集群实现session共享](./Java/HeighWeb/1.tomcat7依赖redis配置集群实现session共享.md)  
 
 ## 4.前端开发：  
 #### 4.1 CSS  
