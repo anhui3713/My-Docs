@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="666ee1c9-b938-49b1-b1be-856343355a40" name="Default" comment="添加tomcat7和redis的集群配置">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/James的文档.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/buil.gradle中sonatype地址代码.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/context.xml配置.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/gradle-build报错1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/nginx转发配置.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java/HeighWeb/tomcat7-redis-session/构建完成.png" />
+    <list default="true" id="666ee1c9-b938-49b1-b1be-856343355a40" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java/HeighWeb/1.tomcat7依赖redis配置集群实现session共享.md" afterPath="$PROJECT_DIR$/Java/HeighWeb/1.tomcat7依赖redis配置集群实现session共享.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="My-Docs.iws" />
@@ -29,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="MarkdownPreviewEditor">
             <state />
@@ -37,19 +32,6 @@
           <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.tomcat7依赖redis配置集群实现session共享.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/HeighWeb/1.tomcat7依赖redis配置集群实现session共享.md">
-          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -433,14 +415,20 @@
       <option name="project" value="LOCAL" />
       <updated>1450335604806</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="添加tomcat7和redis的集群配置插图">
+      <created>1450335672732</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1450335672732</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18960084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18960084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33298096" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -479,7 +467,8 @@
     <MESSAGE value="修改错别字" />
     <MESSAGE value="修改编号" />
     <MESSAGE value="添加tomcat7和redis的集群配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加tomcat7和redis的集群配置" />
+    <MESSAGE value="添加tomcat7和redis的集群配置插图" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加tomcat7和redis的集群配置插图" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -728,6 +717,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/1.Windows下安装配置.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.433333">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/HeighWeb/1.tomcat7依赖redis配置集群实现session共享.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.78530425">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -743,28 +754,6 @@
       </provider>
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MongoDB/1.Windows下安装配置.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.433333">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/HeighWeb/1.tomcat7依赖redis配置集群实现session共享.md">
-      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>
