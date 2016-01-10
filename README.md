@@ -2,7 +2,7 @@
 
 ## 1.小知识：
 1. [Markdown语法](./Others/1.Markdown语法.md)  
-2. [SublimeText3快捷键](Others/2.SublimeText3快捷键.md)  
+2. [[转]SublimeText3快捷键](Others/2.[转]SublimeText3快捷键.md)  
 
 ## 2.Ubuntu：
 1. [开启root登陆](./Ubuntu/1.开启root登陆.md)
