@@ -2,7 +2,8 @@
 
 ## 1.小知识：
 1. [Markdown语法](./Others/1.Markdown语法.md)  
-2. [[转]SublimeText3快捷键](Others/2.[转]SublimeText3快捷键.md)  
+2. [[转]SublimeText3快捷键](./Others/2.[转]SublimeText3快捷键.md)  
+3. [Git添加SSH公钥到GitLab服务器](./Others/3.Git添加SSH公钥到GitLab服务器.md)  
 
 ## 2.Ubuntu：
 1. [开启root登陆](./Ubuntu/1.开启root登陆.md)
