@@ -12,6 +12,7 @@
 4. [[转]linux重启命令](./Ubuntu/4.[转]linux重启命令.md)
 
 ## 3.Java  
+<!--
 #### 3.2 Java8 新特性  
 1. [Lambda表达式](./Java/Java8Features/1.Lambda表达式.md)  
 2. 接口的默认方法   
@@ -44,7 +45,7 @@
     4. LocalDate 本地日期
     5. LocalDateTime 本地日期时间  
 10. Annotation 注解  
-
+-->
 #### 3.1 Maven  
 1. [Maven构建时忽略单元测试](./Java/Maven/1.Maven构建时忽略单元测试.md)  
 
