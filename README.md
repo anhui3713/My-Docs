@@ -12,45 +12,13 @@
 4. [[转]linux重启命令](./Ubuntu/4.[转]linux重启命令.md)
 
 ## 3.Java  
-<!--
-#### 3.2 Java8 新特性  
-1. [Lambda表达式](./Java/Java8Features/1.Lambda表达式.md)  
-2. 接口的默认方法   
 
-3. 函数式接口  
-4. 方法与构造函数引用    
-5. Lambda 作用域  
-6. 访问局部变量  
-7. 访问对象字段与静态变量  
-8. 访问接口的默认方法  
-    1. Predicate接口  
-    2. Function 接口  
-    3. Supplier 接口  
-    4. Consumer 接口  
-    5. Comparator 接口  
-    6. Optional 接口  
-    7. Stream 接口  
-    8. Filter 过滤  
-    9. Sort 排序  
-    10. Map 映射  
-    11. Match 匹配  
-    12. Count 计数  
-    13. Reduce 规约  
-    14. 并行Streams  
-    15. Map  
-9. Date API  
-    1. Clock 时钟
-    2. Timezones 时区
-    3. LocalTime 本地时间
-    4. LocalDate 本地日期
-    5. LocalDateTime 本地日期时间  
-10. Annotation 注解  
--->
 #### 3.1 Maven  
 1. [Maven构建时忽略单元测试](./Java/Maven/1.Maven构建时忽略单元测试.md)  
 
 #### 3.2 高性能网站搭建  
-1. [tomcat7依赖redis配置集群实现session共享](./Java/HeighWeb/1.tomcat7依赖redis配置集群实现session共享.md)  
+1. [tomcat8依赖redis配置集群实现session共享](./Java/HeighWeb/1.tomcat7依赖redis配置集群实现session共享.md)  
+1. [tomcat8依赖redis配置集群实现session共享](./Java/HeighWeb/2.tomcat8依赖redis配置集群实现session共享.md)  
 
 ## 4.前端开发：  
 #### 4.1 CSS  
